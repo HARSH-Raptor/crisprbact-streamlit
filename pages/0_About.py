@@ -15,7 +15,7 @@ st.write(
     Bikard Lab, Institut Pasteur
 
     Streamlit interface:
-    Harsh Mishra
-    IISER Bhopal
+    Harsh Mishra,
+    IISER Bhopal, India.
     """
 )
